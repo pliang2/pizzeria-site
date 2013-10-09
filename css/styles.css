@@ -1,0 +1,6 @@
+@import url(reset.css);
+
+body {
+	background-image: url(../img/texture-cardboard.jpg);
+	background-repeat: repeat;
+}
